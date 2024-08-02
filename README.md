@@ -10,7 +10,6 @@ This project demonstrates a simple quote generator using the Ollama language mod
 ## Prerequisites
 
 - Python 3.7 or higher
-- `fpdf` library
 - `langchain_community` library
 - Ollama LLM running locally
 
