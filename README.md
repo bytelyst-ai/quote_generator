@@ -27,12 +27,8 @@ This project demonstrates a simple quote generator using the Ollama language mod
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
     ```
 
-3. Install the required packages:
-    ```bash
-    pip install fpdf langchain_community
-    ```
 
-4. Ensure Ollama LLM is running locally. Modify the `base_url` in the script if needed.
+3. Ensure Ollama LLM is running locally. Modify the `base_url` in the script if needed.
 
 
 
